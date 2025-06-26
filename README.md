@@ -11,6 +11,7 @@ To provide an easy-to-use, trustless system for event   organizers and participa
 A block-chain based protocol desinged to provide proof of attendence or participation in events, activities, or experiences. 
 
 ## Key Features
+
 - ERC721 NFT implementation for unique attendance tokens.
 - Mapping to ensure one POAP NFT per event per attendee.
 - Owner-controlled base URI for metadata.
