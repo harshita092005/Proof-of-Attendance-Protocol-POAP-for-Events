@@ -1,4 +1,4 @@
-# Proof of Attendance Protocol (POAP) for Events
+# Proof of Attendance Protocol (POAP) for Events.
 
 ## Project Title
  Proof of Attendance Protocol (POAP)
@@ -27,4 +27,4 @@ A block-chain based protocol desinged to provide proof of attendence or particip
 
 ## Contract details
 0x398365B189FA65Dd28E54A78DB0345C0B541e256![alt text](image.png)
-project created Harshita Sen 
+# project created Harshita Sen 
