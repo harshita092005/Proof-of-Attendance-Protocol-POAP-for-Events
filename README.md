@@ -1,6 +1,6 @@
 # Proof of Attendance Protocol (POAP) for Events.
 
-## Project Title
+## Project Title.
  Proof of Attendance Protocol (POAP)
 
 ## Project  Description
@@ -14,12 +14,12 @@ A block-chain based protocol desinged to provide proof of attendence or particip
 
 - ERC721 NFT implementation for unique attendance tokens.
 - Mapping to ensure one POAP NFT per event per attendee.
-- Owner-controlled base URI for metadata.
+- Owner- controlled base URI for metadata.
 - Emission of events on successful claims.
 - Safe minting with unique token IDs.
 
 ## Future Scope
-- Adding event-specific metadata with richer details.
+- Adding  event-specific metadata with richer details.
 - Integration with web frontends for easy claim interface.
 - Support for batch minting or airdrops by event organizers.
 - Advanced permissioning or   whitelisting of attendees.
@@ -27,4 +27,4 @@ A block-chain based protocol desinged to provide proof of attendence or particip
 
 ## Contract details
 0x398365B189FA65Dd28E54A78DB0345C0B541e256![alt text](image.png)
-# project created Harshita Sen 
+# project created  Harshita Sen 
