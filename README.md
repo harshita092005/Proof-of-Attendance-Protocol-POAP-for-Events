@@ -19,10 +19,10 @@ A block-chain based protocol desinged to provide proof of attendence or particip
 - Safe minting with unique token IDs.
 
 ## Future Scope
-- Adding  event-specific metadata with richer details.
-- Integration with web frontends for easy claim interface.
-- Support for batch minting or airdrops by event organizers.
-- Advanced permissioning or   whitelisting of attendees.
+ - Adding  event-specific metadata with richer details.
+ - Integration with web frontends for easy claim interface.
+ - Support for batch minting or airdrops by event organizers.
+ - Advanced permissioning or   whitelisting of attendees.
 - Interoperability with existing POAP platforms.
 
 ## Contract details
