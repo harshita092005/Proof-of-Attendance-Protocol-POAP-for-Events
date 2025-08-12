@@ -1,4 +1,4 @@
-# Proof of Attendance Protocol (POAP) for Events.
+Proof of Attendance Protocol (POAP) for Events.
 
  Project Title.
  Proof of Attendance Protocol (POAP)
