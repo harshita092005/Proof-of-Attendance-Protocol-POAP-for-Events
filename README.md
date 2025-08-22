@@ -11,7 +11,7 @@ A block-chain based protocol desinged to provide proof of attendence or particip
 
  Key Features
 
-- ERC721 NFT implementation for unique attendance tokens.
+ERC721 NFT implementation for unique attendance tokens.
 - Mapping to ensure one POAP NFT per event per attendee.
 - Owner- controlled base URI for metadata.
 - Emission of events on successful claims.
