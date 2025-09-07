@@ -9,7 +9,7 @@ A protocol that creats digital badges or collectibles theough the use of Blockch
 To provide an easy-to-use, trustless system for event   organizers and participants to record attendance transparently on-chain via non-fungible tokens (NFTs).
 A block-chain based protocol desinged to provide proof of attendence or participation in events, activities, or experiences. 
 
-Key Features
+# Key Features
 
 ERC721 NFT implementation for unique attendance tokens.
 - Mapping to ensure one POAP NFT per event per attendee.
