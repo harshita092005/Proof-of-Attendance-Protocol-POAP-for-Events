@@ -4,7 +4,7 @@ Project Title.
 Proof of Attendance Protocol (POAP)
 
 Project  Description
-This smart contract implements a simple Proof of Attendance Protocol (POAP) on the Ethereum blockchain. Attendees of events can claim unique NFTs as verifiable proof they participated. Each event is identified by an event ID, and attendees can only claim one POAP NFT per event.
+# This smart contract implements a simple Proof of Attendance Protocol (POAP) on the Ethereum blockchain. Attendees of events can claim unique NFTs as verifiable proof they participated. Each event is identified by an event ID, and attendees can only claim one POAP NFT per event.
 A protocol that creats digital badges or collectibles theough the use of Blockchain technology.        Project Vision 
  To provide an easy-to-use, trustless system for event   organizers and participants to record attendance transparently on-chain via non-fungible tokens (NFTs).
 A block-chain based protocol desinged to provide proof of attendence or participation in events, activities, or experiences. 
