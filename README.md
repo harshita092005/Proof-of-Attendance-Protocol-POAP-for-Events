@@ -17,7 +17,7 @@ Mapping to ensure one POAP NFT per event per attendee.
  Emission of events on successful claims.
  Safe minting with unique token IDs.
 
-Future Scope
+ # Future Scope
   Adding  event-specific metadata with richer details.
  - Integration with web frontends for easy claim interface.
  - Support for batch minting or airdrops by event organizers.
