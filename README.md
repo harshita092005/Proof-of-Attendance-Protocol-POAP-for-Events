@@ -22,7 +22,7 @@ Mapping to ensure one POAP NFT per event per attendee.
  - Integration with web frontends for easy claim interface.
  - Support for batch minting or airdrops by event organizers.
  - Advanced permissioning or   whitelisting of attendees.
- Interoperability with existing POAP platforms.
+   Interoperability with existing POAP platforms.
 
  # Contract details
 0x398365B189FA65Dd28E54A78DB0345C0B541e256![alt text](image.png) project created  Harshita Sen 
